@@ -1,0 +1,51 @@
+
+
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    background-color: rgb(255, 192, 227);
+}
+
+section {
+    margin-bottom: 20px;
+}
+
+label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+input, button {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #c300ff;
+    border-radius: 4px;
+}
+
+button {
+    background-color: #c300ff;
+    color: rgb(255, 255, 255);
+    border: none;
+}
+
+h2 {
+    margin-bottom: 10px;
+}
+
+ul {
+    list-style: circle;
+    padding-left: 0;
+}
+
+li {
+    margin-bottom: 10px;
+    display: flex;
+    align-items: center;
+}
+
+li img {
+    margin-right: 10px;
+    width: 24px;
+    height: 24px;
+}
